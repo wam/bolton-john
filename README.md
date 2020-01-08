@@ -1,11 +1,15 @@
 BOLTON JOHN
 
-1. Open Extensions
-2. Turn on Developer Mode
-3. "Load Unpacked"
-4. Select the Bolton John folder
-5. Don't Go Breaking My Heart
+1. Clone or Download ↗️
+2. Download Zip
+3. Unzip the Zip
+4. Open Chrome
+4. Open Extensions
+5. Turn on Developer Mode
+6. Load Unpacked
+7. Choose the Unzipped Folder
+8. Don't Go Breaking My Heart
 
 ## License
 
-MIT License.
+MIT License?
