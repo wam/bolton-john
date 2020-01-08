@@ -11,7 +11,7 @@ var BoltonJohn = BoltonJohn || {
 
         if (node.nodeType === 3) {
           var text = node.nodeValue;
-          var replacedText = text.replace(/John Bolton/g, 'Bolton John');
+          var replacedText = text.replace(/John (Robert )?Bolton/g, 'Bolton John');
 
           if (replacedText !== text) {
             element.replaceChild(document.createTextNode(replacedText), node);
