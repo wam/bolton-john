@@ -2,10 +2,9 @@
 
 ![Bolton John PLUS Elton John EQUALS Bolton John](https://github.com/wam/bolton-john/raw/master/bolton-john.jpg)
 
+*Are you sick of "the media" and "the tweets" getting Bolton John's name backwards?* Enhance your "browsing experience" by fixing it on all the web sites.
 
-Enhance your news media experience by fixing Bolton John's name on every site.
-
-1. Clone or Download ↗️
+1. Clone or Download (Upper right, above) ↗️
 2. Download Zip
 3. Unzip the Zip
 4. Open Chrome

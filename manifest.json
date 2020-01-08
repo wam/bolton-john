@@ -13,6 +13,6 @@
     "js": ["content.js"]
   }],
   "permissions": [
-    "*://*/*"
+    "activeTab"
   ]
 }
