@@ -13,7 +13,3 @@
 6. Load Unpacked
 7. Choose the Unzipped Folder
 8. Don't Go Breaking My Heart
-
-## License
-
-MIT License?
