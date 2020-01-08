@@ -1,7 +1,6 @@
-BOLTON JOHN
+# BOLTON JOHN
 
-
-![John Bolton PLUS Elton John EQUALS Bolton John](https://github.com/wam/bolton-john/raw/master/bolton-john.jpg)
+![Bolton John PLUS Elton John EQUALS Bolton John](https://github.com/wam/bolton-john/raw/master/bolton-john.jpg)
 
 
 Enhance your news media experience by fixing Bolton John's name on every site.
