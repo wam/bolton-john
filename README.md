@@ -1,4 +1,4 @@
-# BOLTON JOHN
+# BOLTON JOHN Chrome Extension
 
 ![Bolton John PLUS Elton John EQUALS Bolton John](https://github.com/wam/bolton-john/raw/master/bolton-john.jpg)
 
