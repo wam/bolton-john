@@ -1,5 +1,7 @@
 BOLTON JOHN
 
+Enhance your news media experience by fixing Bolton John's name on every site.
+
 1. Clone or Download ↗️
 2. Download Zip
 3. Unzip the Zip
