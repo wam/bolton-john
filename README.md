@@ -4,7 +4,7 @@
 
 **Are you sick of "the media" and "the tweets" getting Bolton John's name backwards?** Enhance your "browsing experience" by fixing it on all the web sites.
 
-1. [Download the Zip](https://github.com/wam/bolton-john/releases/download/v1.0/bolton-john-version1point0.zip)
+1. [Download the Zip](https://github.com/wam/bolton-john/releases/download/v1.0/bolton-john-version-1_0.zip)
 2. Unzip the Zip
 3. Open Chrome
 4. Open Extensions
